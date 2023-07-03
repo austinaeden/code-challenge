@@ -1,5 +1,7 @@
+//creating a variable
 let speed = parseInt(window.prompt("Enter the speed of the car"))
 
+//console logs the appropriate speed
 if(speed <=70){
     console.log("OK")
 }

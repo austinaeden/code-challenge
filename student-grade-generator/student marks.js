@@ -1,5 +1,8 @@
+//creating a variable
 let marks = window.prompt ("Enter student's marks");
 
+//using switch instead of if but they do the same function
+// also console logs the grade of the marks input
 switch(true){
     case marks > 79:
         console.log("A")
